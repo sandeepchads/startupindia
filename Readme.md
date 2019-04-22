@@ -1,6 +1,6 @@
 # Introduction
 
-Startup India is a flagship initiative of the Government of India, intended to build a strong ecosystem that is conducive for the growth of startup businesses, to drive sustainable economic growth and generate large scale employment opportunities. The Government through this initiative aims to empower startups to grow through innovation and design.
+Start up India is a flagship initiative of the Government of India, intended to build a strong ecosystem that is conducive for the growth of startup businesses, to drive sustainable economic growth and generate large scale employment opportunities. The Government through this initiative aims to empower startups to grow through innovation and design.
 Several programs have been undertaken since the launch of the initiative on 16th of January, 2016 by Hon’ble Prime Minister, to contribute to his vision of transforming India into a country of job creators instead of job seekers. These programs have catalyzed the startup culture, with startups getting recognized through the Startup India initiative and many entrepreneurs availing the benefits of starting their own business in India.
 The 19-Point Startup India Action Plan envisages several incubation centres, easier patent filing, tax exemptions, ease of setting-up of business, a INR 10,000 Crore corpus fund, and a faster exit mechanism, among others.
 
